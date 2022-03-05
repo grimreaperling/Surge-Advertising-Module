@@ -1,6 +1,4 @@
-#!name=Advertising MITM
-#!desc=最后更新时间 2022-01-18 23:33:24
-#!author=blackmatrix7
+#!name=Advertising
 #!mitm=238
 
 [Rule]
